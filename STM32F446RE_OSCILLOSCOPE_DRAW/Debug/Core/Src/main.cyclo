@@ -1,0 +1,10 @@
+../Core/Src/main.c:74:1:__io_putchar	1
+../Core/Src/main.c:88:5:main	1
+../Core/Src/main.c:200:6:SystemClock_Config	4
+../Core/Src/main.c:255:13:MX_DAC_Init	4
+../Core/Src/main.c:302:13:MX_TIM1_Init	7
+../Core/Src/main.c:377:13:MX_TIM8_Init	7
+../Core/Src/main.c:452:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:483:13:MX_DMA_Init	1
+../Core/Src/main.c:504:13:MX_GPIO_Init	1
+../Core/Src/main.c:542:6:Error_Handler	1
